@@ -1,0 +1,16 @@
+D:\Прикладное_программирование\lab3-\Новая папка\Accounting_hotel_rooms!\bin\Debug\Accounting_hotel_rooms!.dll
+D:\Прикладное_программирование\lab3-\Новая папка\Accounting_hotel_rooms!\bin\Debug\Accounting_hotel_rooms!.pdb
+D:\Прикладное_программирование\lab3-\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms.csproj.CoreCompileInputs.cache
+D:\Прикладное_программирование\lab3-\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms!.dll
+D:\Прикладное_программирование\lab3-\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms!.pdb
+D:\Прикладное_программирование\lab3\Новая папка\Accounting_hotel_rooms!\bin\Debug\Accounting_hotel_rooms!.dll
+D:\Прикладное_программирование\lab3\Новая папка\Accounting_hotel_rooms!\bin\Debug\Accounting_hotel_rooms!.pdb
+D:\Прикладное_программирование\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms.csproj.CoreCompileInputs.cache
+D:\Прикладное_программирование\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms!.dll
+D:\Прикладное_программирование\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms!.pdb
+D:\Прикладное_программирование\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms.csprojAssemblyReference.cache
+D:\COLD\Application_programming\lab3\Новая папка\Accounting_hotel_rooms!\bin\Debug\Accounting_hotel_rooms!.dll
+D:\COLD\Application_programming\lab3\Новая папка\Accounting_hotel_rooms!\bin\Debug\Accounting_hotel_rooms!.pdb
+D:\COLD\Application_programming\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms.csprojAssemblyReference.cache
+D:\COLD\Application_programming\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms!.dll
+D:\COLD\Application_programming\lab3\Новая папка\Accounting_hotel_rooms!\obj\Debug\Accounting_hotel_rooms!.pdb
